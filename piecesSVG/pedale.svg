@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="export-site" serif:id="export site" transform="matrix(0.774095,0,0,0.307879,0,0)">
+        <rect x="0" y="0" width="2480.32" height="3507.87" style="fill:none;"/>
+        <g transform="matrix(0.79596,-0.0099111,0.00356841,1.81165,-55522.5,-35373.3)">
+            <path id="pédale" d="M71154.6,21242.9L71222.3,21242.9C71230.7,21242.9 71237.4,21235.4 71237.4,21226.2C71237.4,21217 71230.7,21209.5 71222.3,21209.5L71154.6,21209.5C71146.3,21209.5 71139.5,21217 71139.5,21226.2C71139.5,21235.4 71146.3,21242.9 71154.6,21242.9Z"/>
+        </g>
+    </g>
+</svg>
